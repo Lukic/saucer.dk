@@ -1,0 +1,16 @@
+    img{
+        width:550px;
+        height:300px;
+        object-fit: cover;
+    }
+
+    div{
+        width: 500px;
+        height: 500px;
+
+        background-image: url("/img/srdjan.jpg");
+        background-size: cover;
+        background-blend-mode:hue;
+        
+        padding: 25px;
+    }
