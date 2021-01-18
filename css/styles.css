@@ -1,34 +1,40 @@
-header{
-    background-color: darkred;
-    color: white;
-    text-align: center;
-    padding: 40px 0px;
+header {
+  background-color: darkred;
+  background-image: url("/img/developer.jpg");
+  color: white;
+  text-align: center;
+  padding: 40px 0px;
+  height: 300px;
 }
 
-main{
-    display: flex;
+main {
+  display: flex;
 }
 
-nav{
-    width: 20%;
-    background-color:grey;
-    padding: 20px;
+nav {
+  width: 20%;
+  background-color: grey;
+  padding: 20px;
 }
 
-nav a{
-    color: darkred;
-    font-weight: bold;
-    text-decoration: none;
+nav a {
+  color: darkred;
+  font-weight: bold;
+  text-decoration: none;
 }
 
-article{
-    width: 80%;
-    padding: 40px;
+nav img {
+  width: 80%;
 }
 
-footer{
-    background-color: darkred;
-    padding: 20px 0px;
-    color: white;
-    text-align: center;
+article {
+  width: 80%;
+  padding: 40px;
+}
+
+footer {
+  background-color: darkred;
+  padding: 20px 0px;
+  color: white;
+  text-align: center;
 }

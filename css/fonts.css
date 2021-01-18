@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Sacramento_tont;
+  src: url(/fonts/Sacramento-Regular.ttf);
+}
+
+h1 {
+  font-family: Sacramento_tont;
+}
